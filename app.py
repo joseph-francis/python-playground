@@ -22,7 +22,7 @@ address.pop(1)  # removes by index
 print(address)
 
 # Dictionaries
-key_val = {"Mike": 1234, "Joseph":324, "There": 12}
+key_val = {"Mike": 1234, "Joseph": 324, "There": 12}
 print(key_val["There"])
 print(key_val["Joseph"])
 
@@ -50,6 +50,8 @@ def get_age(year):
 def find_in_file(fruit):
     my_file = open("sample.txt")
     fruits = my_file.read().splitlines()
+    my_file.close()
+    # my_file.seek(0) - to go back the cursor.
     print(fruit, fruits)
     if fruit in fruits:
         return "The fruit is in the list"
@@ -59,4 +61,25 @@ def find_in_file(fruit):
 
 print(find_in_file("Orange"))
 
+sample_file = open("sample.txt", "w")
+sample_file.write("Mike\nSomething_else\nTesting")
+sample_file.close()
+
+sample_file = open("sample.txt", "a")  # To append
+sample_file.write("\nBloopers")
+sample_file.close()
+
+# r and w operations will not let you read the file. Only the default r will.
+
+sample_file = open("sample.txt", "a+")  # Read and append
+sample_file.seek(0)  # The cursor automatically places itself at the end. Need to guide it back to the beginning
+sample_file.read()
+sample_file.write("\nsomething new")
+sample_file.close()
+
+numbers = [1, 2, 3]
+number_file = open("numbers.txt", "a+")
+for num in numbers:
+    number_file.write(str(num) + "\n")
+number_file.close()
 
