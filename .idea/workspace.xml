@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d090fcc4-3b38-473a-bfd8-59f194b5b99b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Playground.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Playground.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -139,6 +138,9 @@
       <workItem from="1563851290636" duration="458000" />
       <workItem from="1563852414910" duration="2098000" />
       <workItem from="1564002804099" duration="233000" />
+      <workItem from="1564003140168" duration="51000" />
+      <workItem from="1564003662664" duration="13000" />
+      <workItem from="1564003745680" duration="1131000" />
     </task>
     <servers />
   </component>
@@ -150,7 +152,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
