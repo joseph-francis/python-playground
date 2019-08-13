@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d090fcc4-3b38-473a-bfd8-59f194b5b99b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Playground.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Playground.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,10 +34,6 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1280" />
-    <option name="height" value="800" />
-  </component>
   <component name="ProjectId" id="1OTXwkbFFwpJFlDV08HjQyVHdyo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -48,7 +45,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -141,6 +138,12 @@
       <workItem from="1564003140168" duration="51000" />
       <workItem from="1564003662664" duration="13000" />
       <workItem from="1564003745680" duration="1131000" />
+      <workItem from="1565717390755" duration="406000" />
+      <workItem from="1565717819649" duration="85000" />
+      <workItem from="1565717911104" duration="19000" />
+      <workItem from="1565717936014" duration="107000" />
+      <workItem from="1565718050212" duration="66000" />
+      <workItem from="1565718122524" duration="50000" />
     </task>
     <servers />
   </component>
