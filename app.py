@@ -83,3 +83,4 @@ for num in numbers:
     number_file.write(str(num) + "\n")
 number_file.close()
 
+# The scope of variables in if-else statement is within the scope of the function.
