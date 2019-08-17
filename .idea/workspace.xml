@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d090fcc4-3b38-473a-bfd8-59f194b5b99b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/file_processing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fruits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pipfile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/file_processing.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_processing.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +36,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -135,7 +135,9 @@
       <workItem from="1565717936014" duration="107000" />
       <workItem from="1565718050212" duration="66000" />
       <workItem from="1565718122524" duration="2410000" />
-      <workItem from="1565998640913" duration="7363000" />
+      <workItem from="1565998640913" duration="7838000" />
+      <workItem from="1566050366755" duration="1472000" />
+      <workItem from="1566053300887" duration="521000" />
     </task>
     <servers />
   </component>

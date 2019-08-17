@@ -7,4 +7,3 @@ my_file.close()
 with open("fruits.txt") as fruits:
     fruits.read()
 
-
