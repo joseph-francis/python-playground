@@ -1,6 +1,6 @@
 temps = [221, 234, 340, 230]
 
-new_temps = [temp/10 for temp in temps]  # Similar to map function in Swift
+new_temps = [temp / 10 for temp in temps]  # Similar to map function in Swift
 print(new_temps)
 
 # Define a function that takes a parameter a list that contains both numbers and strings and returns the list containing only the numbers.
@@ -21,6 +21,7 @@ def map_and_filter(params):
 
 print(map_and_filter(values))
 
+
 # If you have an if-else statement inside the list comprehension, you want to put the for-in loop at the very end.
 
 # A list comprehension is an expression that creates a list by iterating over another container.
@@ -39,3 +40,8 @@ print(map_and_filter(values))
 #
 # [i*2 if i>0 else 0 for i in [1, -2, 10]]
 # Output: [2, 0, 20]
+
+def another_foo(*args):
+    return [arg for arg in args]
+
+# Having *args as the parameter will let you take indefinite amount of arguments. Having **args will let you take keyworded args. So, each argument passed in must be named: example: a=5
